@@ -4,7 +4,7 @@
 </div>
 
 ## Usage💻
-you can use this project to make organized lists of txt files(for example: recipes)
+You can use this project to create organized lists of text files (for example, recipes), easily create new .txt files, and edit existing ones.
 
 ## Instruction🧑‍🏫
 Open TxtExplorer.sln file and in there edit this in Main function:
