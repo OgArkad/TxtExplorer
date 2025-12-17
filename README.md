@@ -8,9 +8,11 @@ you can use this project to make organized lists of txt files(for example: recip
 
 Instruction🧑‍🏫
 Open TxtExplorer.sln file and in there edit this in Main function:
+```C#
 //please write the FULL path to the folder, where you want to store your .txt files!----------------------------------
 DirectoryInfo Folder = new DirectoryInfo(@"HERE");
 //--------------------------------------------------------------------------------------------------------------------
+```
 
 Support⭐
 You can star this project!
